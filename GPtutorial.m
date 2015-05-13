@@ -1,6 +1,6 @@
 % This is Matlab code to produce Figure 6 of 'Gaussian Processes for Timeseries Modelling'
-% a.k.a. Figures 1 and 2 at www.robots.ox.ac.uk/~mebden/reports/GPtutorial.pdf
-% Mark Ebden, Aug 2008.  Comments to mark.ebden@eng.ox.ac.uk
+% a.k.a. Figures 1 and 2 at http://arxiv.org/abs/1505.02965
+% Mark Ebden, Aug 2008.  Comments to mebden@gmail.com
 %
 % Dependencies: calcGP.m k_GP.m, GPtutorialFcn.m, hypSample.m
 
